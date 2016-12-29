@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1482983352 source:/home/cauim/Documents/minesweeper/main.cpp
+	<iostream>
+	"MineSweeper.h"
+
+1483038216 /home/cauim/Documents/minesweeper/MineSweeper.h
+
+1483038240 source:/home/cauim/Documents/minesweeper/MineSweeper.cpp
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	"MineSweeper.h"
+
